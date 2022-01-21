@@ -1,0 +1,14 @@
+C:\Users\karam\OneDrive\Υπολογιστής\Christos_Karamlegkos_indvividual_part_A\Indvividual_Part_A_CK\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\karam\OneDrive\Υπολογιστής\Christos_Karamlegkos_indvividual_part_A\Indvividual_Part_A_CK\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\karam\OneDrive\Υπολογιστής\Christos_Karamlegkos_indvividual_part_A\Indvividual_Part_A_CK\Project\bin\Debug\Project.exe.config
+C:\Users\karam\OneDrive\Υπολογιστής\Christos_Karamlegkos_indvividual_part_A\Indvividual_Part_A_CK\Project\bin\Debug\Project.exe
+C:\Users\karam\OneDrive\Υπολογιστής\Christos_Karamlegkos_indvividual_part_A\Indvividual_Part_A_CK\Project\bin\Debug\Project.pdb
+C:\Users\karam\OneDrive\Υπολογιστής\Christos_Karamlegkos_indvividual_part_A\Indvividual_Part_A_CK\Project\obj\Debug\Project.exe
+C:\Users\karam\OneDrive\Υπολογιστής\Christos_Karamlegkos_indvividual_part_A\Indvividual_Part_A_CK\Project\obj\Debug\Project.pdb
+C:\Users\karam\OneDrive\Υπολογιστής\Christos_Karamolegkos_indvividual_part_A\Indvividual_Part_A_CK\Project\bin\Debug\Project.exe.config
+C:\Users\karam\OneDrive\Υπολογιστής\Christos_Karamolegkos_indvividual_part_A\Indvividual_Part_A_CK\Project\bin\Debug\Project.exe
+C:\Users\karam\OneDrive\Υπολογιστής\Christos_Karamolegkos_indvividual_part_A\Indvividual_Part_A_CK\Project\bin\Debug\Project.pdb
+C:\Users\karam\OneDrive\Υπολογιστής\Christos_Karamolegkos_indvividual_part_A\Indvividual_Part_A_CK\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\karam\OneDrive\Υπολογιστής\Christos_Karamolegkos_indvividual_part_A\Indvividual_Part_A_CK\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\karam\OneDrive\Υπολογιστής\Christos_Karamolegkos_indvividual_part_A\Indvividual_Part_A_CK\Project\obj\Debug\Project.exe
+C:\Users\karam\OneDrive\Υπολογιστής\Christos_Karamolegkos_indvividual_part_A\Indvividual_Part_A_CK\Project\obj\Debug\Project.pdb

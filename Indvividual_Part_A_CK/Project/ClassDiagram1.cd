@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Project.Core.Entities.Assignment">
+    <Position X="0.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAIAAAAAAAQIIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Entities\Assignment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.Core.Entities.Course">
+    <Position X="3.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAIAAAAAAAAAIQAAAACIAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Core\Entities\Course.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.Core.Entities.Student">
+    <Position X="7" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAQAAAAAQAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Core\Entities\Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.Core.Entities.Trainer">
+    <Position X="9.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Entities\Trainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.Core.Entities.Person" Collapsed="true">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAgAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Entities\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.Core.Entities.Information" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAggEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Entities\Information.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Project.Core.Enums.Subject">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Enums\Subject.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
